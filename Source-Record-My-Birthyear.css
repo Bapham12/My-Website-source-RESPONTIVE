@@ -1,0 +1,165 @@
+body {
+    background-color: #fff;
+    color: #000;
+    font-size: 110%;
+    text-align: center;
+    margin: 0;
+}
+
+body,
+input {
+    font-family: tahoma, arial, sans-serif;
+}
+
+.formInput {
+    width: 120px;
+    color: #888;
+    font-weight: bold;
+    padding-left: 2px;
+}
+
+.formButton {
+    width: 70px;
+    font-weight: bold;
+}
+
+#mainForm {
+    display: block;
+    position: absolute;
+    top: 195px;
+    width: 100%;
+    text-align: center;
+}
+
+#mainForm p {
+    margin-top: 0;
+    padding-top: 0;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+#countDownBox {
+    font-size: 120%;
+    position: absolute;
+    top: 200px;
+    width: 100%;
+    text-align: center;
+    display: none;
+}
+
+#result {
+    font-size: 110%;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    top: 100px;
+    width: 600px;
+    display: none;
+    color: #fff;
+    text-align: left;
+    padding-bottom: 150px;
+}
+
+#result a {
+    color: rgb(149,202,255);
+    color: #fff;
+}
+
+#result img {
+    display: block;
+    margin-top: 22px;
+    padding-bottom: 26px;
+}
+
+#aboutBox {
+    position: absolute;
+    right: 10px;
+    top: 38px;
+    width: 260px;
+    background-color: #eee;
+    color: #000;
+    display: none;
+    font-size: 90%;
+    padding: 14px;
+    -moz-border-radius: 12px;
+    border-radius: 8px;
+    text-align: left;
+}
+
+#navigation {
+    position: absolute;
+    top: 12px;
+    right: 10px;
+    width: 75px;
+    height: 20px;
+    text-align: center;
+    font-size: 90%;
+    font-weight: bold;
+}
+
+#navigation a {
+    color: #aaa;
+}
+
+.pseudoLink {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+#mainIframeWrapper {
+    position: absolute;
+    left: 100px;
+    top: 100px;
+    width: 770px;
+    height: 450px;
+    border: 1px solid #777;
+    display: none;
+    background-color: #bbb;
+    -moz-border-radius: 12px;
+    border-radius: 8px;
+}
+
+#mainIframeWrapper a {
+    color: #000;
+    text-decoration: none;
+}
+
+#mainIframe {
+    width: 766px;
+    height: 450px;
+}
+
+.closeButtonWrapper {
+    text-align: right;
+    font-weight: bold;
+    width: 100%;
+}
+
+body a.importantLink {
+    color: #05c !important;
+}
+
+.ad {
+    margin-top: 150px;
+    border-top: 1px solid #aaa;
+    width: 728px;
+    height: 500px;
+    overflow: hidden;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 21px;
+}
+
+#aboutBox a {
+    color: #000;
+}
+
+.credits {
+    font-size: 90%;
+}
+
+.credits,
+#aboutBox .credits a {
+    color: #777;
+}
