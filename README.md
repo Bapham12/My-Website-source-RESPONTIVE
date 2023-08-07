@@ -1,5 +1,6 @@
 # My-Website-source-RESPONTIVE
 [![Lint](https://github.com/scpwiki/sigma/actions/workflows/lint.yaml/badge.svg)](https://github.com/Bapham12/My-Website-source-RESPONTIVE/actions/workflows/lint.yaml)
+[![Pylint](https://github.com/Bapham12/My-Website-source-RESPONTIVE/actions/workflows/pylint.yml/badge.svg)](https://github.com/Bapham12/My-Website-source-RESPONTIVE/actions/workflows/pylint.yml)
 
 
 Thư viện chứa mã nguồn của các site thuộc trang web cá nhân của tôi....
